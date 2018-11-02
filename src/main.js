@@ -6,7 +6,7 @@ Vue.config.productionTip = false
 
 Vue.use(VueGoogleMaps, {
   load: {
-    key: "replace-with-your-key",
+    key: "enter-your-own-key",
     libraries: "places" // necessary for places input
   }
 });
